@@ -1,0 +1,6 @@
+[submodule "abseil"]
+	path = abseil
+	url = https://github.com/abseil/abseil-cpp.git
+[submodule "google-benchmark"]
+	path = google-benchmark
+	url = https://github.com/google/benchmark.git
